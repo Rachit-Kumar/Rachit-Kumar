@@ -92,7 +92,7 @@ focus      : Building real projects while gearing up for college
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -116,7 +116,7 @@ focus      : Building real projects while gearing up for college
 </div>
 
 ---
-
+-->
 ### ✍️ Dev Quote of the Day
 
 <div align="center">
