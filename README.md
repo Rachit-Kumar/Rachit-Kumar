@@ -43,7 +43,6 @@ focus      : Building real projects while gearing up for college
 | 📚 [**StudyTracker**](https://www.studytracker.space/) | Personal study planner & progress tracker | Web App |
 | 💰 [**Expense Splitter**](https://expenses.studytracker.space/) | Group expense splitter with smart settlement | JavaScript |
 | 🔧 [**PDF Color Inverter**](https://github.com/Rachit-Kumar/pdf_color_inverter) | Inverts PDF colors for easy & cheap printing | Python |
-| 🛒 [**Shop App**](https://github.com/Rachit-Kumar/shop-app) | Full-stack shopping application | TypeScript |
 
 ---
 
