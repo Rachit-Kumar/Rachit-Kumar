@@ -16,7 +16,7 @@
 
 ## About Me
 
-I’m a developer who enjoys building practical tools, clean web apps, and automation projects that solve real problems. My work spans frontend development, backend systems, desktop-style apps, billing/ERP workflows, and Linux-based customization.
+I’m a developer who enjoys building practical tools, clean web apps, and automation projects that solve real problems. My work spans frontend development, backend systems, desktop-style apps, billing workflows, and Linux-based customization.
 
 I like learning by shipping projects and improving them through feedback, iteration, and experimentation. My focus is on writing useful software and building a strong foundation in engineering, product thinking, and problem solving.
 
@@ -71,7 +71,6 @@ I like learning by shipping projects and improving them through feedback, iterat
 | [shop-app](https://github.com/Rachit-Kumar/shop-app) | E-commerce / shopping app project built with modern web technologies | TypeScript, CSS, HTML |
 | [Invozo](https://github.com/Rachit-Kumar/Invozo) | Open-source ERP / billing software inspired by FMCG billing workflows | C#, PowerShell |
 | [contextrx](https://github.com/Rachit-Kumar/contextrx) | Mixed-purpose project combining frontend and Python-driven logic | JavaScript, Python, CSS |
-| [rishu-portfolio](https://github.com/Rachit-Kumar/rishu-portfolio) | Portfolio website designed for personal branding and presentation | TypeScript, CSS |
 | [CashMap](https://github.com/Rachit-Kumar/CashMap) | Expense tracker for personal budget and spending overview | TypeScript |
 | [reverse_hackathon_borderland](https://github.com/dBug-Labs/reverse_hackathon_borderland) | Hackathon project contribution focused on product-building and problem solving | TypeScript, HTML, CSS |
 | [pdf_color_inverter](https://github.com/Rachit-Kumar/pdf_color_inverter) | Python utility to invert PDF background colors for easier printing | Python |
@@ -90,7 +89,6 @@ I like learning by shipping projects and improving them through feedback, iterat
 
 ### 2) Web & Product Apps
 - `shop-app` – full-stack / product-style app project
-- `rishu-portfolio` – portfolio showcase website
 - `contextrx` – multi-stack web app exploration
 
 ### 3) Python & Utility Automation
